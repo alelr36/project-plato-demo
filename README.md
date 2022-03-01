@@ -1,4 +1,22 @@
-# Getting Started with Create React App
+# Demo for Project Plato
+
+1. All functionality from the assessment has been implemented.
+2. No unit tests added: due to lack of time, no unit tests were added. Main functionality to test would be the change of active user under user component click, and the change of visible tasks under active user change.
+3. Some lines were skipped from TypeScript and ESLint validations.
+4. Errors should be handled properly, if api fails.
+----
+
+### Try locally
+1. Clone this repository
+2. All code is in `master` branch
+3. Run `npm install`
+4. Run `npm start`
+
+### Try deployed version
+https://ale-arce-project-plato-r8oi3hqlb-alelr36.vercel.app/
+
+----
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
